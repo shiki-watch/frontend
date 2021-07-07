@@ -1,5 +1,28 @@
 {
-  "name": "frontend",
+  "name": "shiki-watch",
+  "description": "anime aggregator with shikimori synchronization. frontend part",
+  "keywords": [
+    "anime",
+    "react",
+    "aggregator",
+    "shikimori",
+    "shikimori-api",
+    "material"
+  ],
+  "homepage": "https://github.com/shiki-watch/frontend#readme",
+  "bugs": {
+    "url": "https://github.com/shiki-watch/frontend/issues",
+    "email": "dadyarri@gmail.com"
+  },
+  "license": "MIT",
+  "author": {
+    "email": "dadyarri@gmail.com",
+    "name": "Daniil Golubev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shiki-watch/frontend.git"
+  },
   "version": "0.1.0",
   "private": true,
   "dependencies": {
